@@ -1,4 +1,4 @@
-# Responsive Café Menu Web Page
+# Responsive Cafe Menu Web Page
 
 A simple, responsive café menu web page built using HTML,CSS, and Javascript  This project focuses on front-end fundamentals such as semantic HTML structure, clean CSS styling, and responsive layout techniques commonly used in small business and restaurant websites.
 
